@@ -126,7 +126,7 @@ buttonEurope.addEventListener('click', () => {
 });
 
 button3.addEventListener('click', () => {
-    userInput.value = "幫我找一款價格1500左右的體脂計，要是知名品牌的";
+    userInput.value = "幫我找一款價格1000左右的體脂計，要是知名品牌的";
     
 });
 
